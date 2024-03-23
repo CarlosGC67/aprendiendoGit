@@ -1,4 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+
 h3{
     font-weight: bold;
     color: rgb(1, 1, 69);
+}
+/*Estilos Header*/
+
+header{
+    border: 1px green solid;
+}
+
+.logo{
+    border: 1px red solid;
+    display: flex;
+    justify-content: center;
+}
+.imagen-logo{
+ 
+}
+
+nav{
+    border: 2px blue solid;
+}
+.menu{
+    border: 1px yellow solid;
+}
+li{
+    text-align: center;
+    border: 1px black solid;
+    font-size: 24px;
+    font-weight: 800;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-style: italic;
 }
