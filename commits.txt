@@ -1,0 +1,77 @@
+commit 23a15139a5c6de635dbca5233a597c83a8961113
+Author: Carlos Gonzalez <devproyectmana@gmail.com>
+Date:   Mon Mar 25 18:27:10 2024 -0600
+
+    agregue una textura a mi proyecto y agregue un comando de git a mi archivo de git para que en el futuro no se me olvide
+
+commit c819f9a08b9bd2fa67c6c035d2c8d0db492edbd9
+Merge: 38b41ec 1dc1dcc
+Author: CarlosGC67 <32086087+CarlosGC67@users.noreply.github.com>
+Date:   Mon Mar 25 18:16:09 2024 -0600
+
+    Merge pull request #2 from CarlosGC67/menuflexbox
+    
+    empezando el desarrollo con mobile first
+
+commit 1dc1dcc620c66a8cac9eaa5119df06090fabf77c
+Author: Carlos Gonzalez <devproyectmana@gmail.com>
+Date:   Fri Mar 22 19:39:48 2024 -0600
+
+    empezando el desarrollo con mobile first
+
+commit 38b41ec81feebf878443f79e16ad2658f5ecdc9a
+Merge: 080c201 6ffaf8a
+Author: CarlosGC67 <32086087+CarlosGC67@users.noreply.github.com>
+Date:   Thu Mar 21 19:27:50 2024 -0600
+
+    Merge pull request #1 from CarlosGC67/menu
+    
+    Menu
+
+commit 6ffaf8aee8b5d0750bdc48a46c080c628fe94d06
+Author: Carlos Gonzalez <devproyectmana@gmail.com>
+Date:   Thu Mar 21 19:21:21 2024 -0600
+
+    creando archivo para mis apuntes html y css
+
+commit b76d309c87dabcdd7281af6865a4e8182815a423
+Author: Carlos Gonzalez <devproyectmana@gmail.com>
+Date:   Wed Mar 13 21:47:23 2024 -0600
+
+    Agregando mas comandos de git
+
+commit 080c20101ef5b5e5800f25d86aa46d65fdee5bc9
+Author: carlos2 <carnahan67.cgc@gmail.com>
+Date:   Tue Mar 12 20:17:07 2024 -0600
+
+    Nuevos comandos de linux
+
+commit 4cb3d3d8767a328edcd9cda53db1610ca920dabc
+Author: carlos2 <carnahan67.cgc@gmail.com>
+Date:   Tue Mar 12 20:04:15 2024 -0600
+
+    nuevos apuntos de git
+
+commit 81902e88b51acf77b0808c3c0f04b1a41ca7b02a
+Author: carlos2 <carnahan67.cgc@gmail.com>
+Date:   Tue Mar 12 19:59:39 2024 -0600
+
+    Agregando apuntes a mi archivo de git
+
+commit 26fa0c0bbe017218cc515e7209d42ee87c258706
+Author: carlos2 <carnahan67.cgc@gmail.com>
+Date:   Tue Mar 12 17:58:37 2024 -0600
+
+    aprendiendo comando de linux
+
+commit 3b9279bdf955716ad0e6143171610008ee6b1da5
+Author: carlos2 <carnahan67.cgc@gmail.com>
+Date:   Tue Mar 12 17:55:07 2024 -0600
+
+    estoy practicando git
+
+commit e0660afe074d566ad8a2b706663a66c16caae6b9
+Author: carlos2 <carnahan67.cgc@gmail.com>
+Date:   Tue Mar 12 17:53:00 2024 -0600
+
+    aprendiendo git
