@@ -42,3 +42,28 @@ li{
     padding-bottom: 3px;
     font-style: italic;
 }
+
+/*Resposive design desktop*/
+@media only screen and (min-width:968px){
+    header{
+        display: flex;
+    }
+    .logo{
+        width: 30%;
+    }
+    nav{
+        width: 70%;
+
+    }
+    .menu{
+        display: flex;
+        list-style-type: none;
+        justify-content: space-around;
+    }
+    .menu li a{
+        color: white;
+        align-items: center;
+
+    }
+
+}
